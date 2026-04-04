@@ -1,0 +1,5 @@
+# Config
+DEFAULT_CURRENCY = '$'
+TAX_RATE = 0.08
+MAX_ITEMS = 100
+DEBUG = True
